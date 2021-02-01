@@ -13,4 +13,4 @@ How it goes:
 
 5. The first player to surpass the final score with his or her total score wins.
 
-![Demo image](demo/PIG-demo.png)
+![Demo image](demo/PIG-demo.PNG)
